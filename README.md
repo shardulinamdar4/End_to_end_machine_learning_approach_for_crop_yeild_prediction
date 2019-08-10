@@ -1,7 +1,5 @@
                                                 ||JAY SHREE RAM||
 # End_to_end_machine_learning_approach_for_crop_yeild_prediction
-
-Description: The following project 
 Table of contents:
                   1.Problem statement explanation
                   2. Dataset Explanation
