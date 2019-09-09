@@ -1,4 +1,4 @@
-                                                ||JAY SHREE RAM||
+
 # End_to_end_machine_learning_approach_for_crop_yeild_prediction
 
 
